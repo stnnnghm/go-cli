@@ -12,14 +12,17 @@
 ---
 #### Default (ERROR)
 > go run main.go
+
 ![Default Usage](img/default.jpg)
 ---
 #### Different Log Levels
 > go run main.go -level {{DesiredLogLevel}}
+
 ![Fatal Log Level](img/fatal.jpg)
 ---
 #### Help Message
 > go run main.go -help
+
 ![Help Message](img/help.jpg)
 ---
 ### Sources
